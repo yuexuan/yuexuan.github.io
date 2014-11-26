@@ -1,48 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[悦轩天下]]></title>
-  <subtitle><![CDATA[九死心不欲，铩羽亦不归]]></subtitle>
-  <link href="/atom.xml" rel="self"/>
-  <link href="http://me.iyuexuan.com/"/>
-  <updated>2014-11-26T03:51:19.858Z</updated>
-  <id>http://me.iyuexuan.com/</id>
-  
-  <author>
-    <name><![CDATA[快乐涛哥]]></name>
-    <email><![CDATA[379635119@qq.com]]></email>
-  </author>
-  
-  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
-  
-  <entry>
-    <title><![CDATA[久别重逢]]></title>
-    <link href="http://me.iyuexuan.com/2014/11/19/%E4%B9%85%E5%88%AB%E9%87%8D%E9%80%A2/"/>
-    <id>http://me.iyuexuan.com/2014/11/19/久别重逢/</id>
-    <published>2014-11-19T03:40:46.000Z</published>
-    <updated>2014-11-19T11:08:32.000Z</updated>
-    <content type="html"><![CDATA[<p>我想写这篇博客已经不是一两年的事情了，大概六七年前的事情，那年我刚接触计算机，在网吧里怎么下载一本电子书，都得向同学请教、那个时候还是比较容易的，比如盗版的小说，比如余秋雨的《文化苦旅》，萧鼎的《诛仙》等等、幸会遇见搜狗网，好像名字叫gougou.com,大意是仿照google.com把，后来12年的时候就发现不在了。最近两年看书的时间已经很少了。每天就那么忙着，忙着，其实也不知道在忙些什么。为了技术为了生存，日子再五年间悄然流逝、</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    
+    
+  <url>
+    <loc>http://me.iyuexuan.com/2014/11/19/%E4%B9%85%E5%88%AB%E9%87%8D%E9%80%A2/</loc>
+    <lastmod>2014-11-19T11:08:32.000Z</lastmod>
+    <data>
+        <display>
+        <title>久别重逢</title>
+        <pubTime>2014-11-19T03:40:46.000Z</pubTime>
+        
+        <tag>生活 </tag>
+         
+         <content><![CDATA[<p>我想写这篇博客已经不是一两年的事情了，大概六七年前的事情，那年我刚接触计算机，在网吧里怎么下载一本电子书，都得向同学请教、那个时候还是比较容易的，比如盗版的小说，比如余秋雨的《文化苦旅》，萧鼎的《诛仙》等等、幸会遇见搜狗网，好像名字叫gougou.com,大意是仿照google.com把，后来12年的时候就发现不在了。最近两年看书的时间已经很少了。每天就那么忙着，忙着，其实也不知道在忙些什么。为了技术为了生存，日子再五年间悄然流逝、</p>
 <p>说说为什么叫“久别重逢 ”吧，我是一个喜欢写点东西的人，来寄托那么一点点忧伤的感情、刚接触计算机的时候，就想写文章。记得在新浪上开了一篇博客，现在密码都忘记了，只记得名字，不能更新内容了。也在网易上开了一篇博客，写了几篇内容，现在已经N年没用用过了。名字都找不到了。后来一直折腾学习去了，也没有精力管理这些东东。再加上本人很懒，用笔不想写字，用电脑打字，又懒得思考，当别人问起，我为自己辩护说，当下情况，自己思维不成熟，写了会有偏见，万一误人子弟，那就罪过了。说白了，不过是不想写。有那个时间多去看点乱七八糟的言论，多去睡会儿觉，感觉很不错滴。</p>
 <p>说了那么多废话，现在干嘛又要折腾这个博客呢？</p>
 <p>我认为这个时代变了，个人的想法变了。以前想拼命的赚钱，想拼命的成名，想拼命的太多。几年拼下来，如果用一无所获，可以说十分恰当！我一直再思考我的长处，我的优势，我的天赋，末了，才会发现，我本普通人。没有任何天赋和优势。有的只是个勤奋的心。因而不可以像电视上，互联网上那些牛逼哄哄的人可以玩弄世界与股掌之间。“臣妾做不到哇~”</p>
 <p>因而，我想开一篇个人博客，来记录一些心情，学习，兴趣，生活，情谊，美食，当然还有技术，反正本人兴趣广泛，你能想到的，我都有所涉猎，只是有些东西，因为当前经济，环境所限制，无法实施。于是乎，不再去想当一个很牛逼的人物，只愿偏安一隅，大隐隐于市，蜗居于魔都。</p>
 ]]></content>
-    <summary type="html">
-    <![CDATA[<p>我想写这篇博客已经不是一两年的事情了，大概六七年前的事情，那年我刚接触计算机，在网吧里怎么下载一本电子书，都得向同学请教、那个时候还是比较容易的，比如盗版的小说，比如余秋雨的《文化苦旅》，萧鼎的《诛仙》等等、幸会遇见搜狗网，好像名字叫gougou.com,大意是仿照goog]]>
-    </summary>
+         
+         
+           
+             
+              <breadCrumb title="随笔" url="http://me.iyuexuan.com/categories/%E9%9A%8F%E7%AC%94/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
-      <category term="生活" scheme="http://me.iyuexuan.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="随笔" scheme="http://me.iyuexuan.com/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://me.iyuexuan.com/2014/11/19/hello-world/"/>
-    <id>http://me.iyuexuan.com/2014/11/19/hello-world/</id>
-    <published>2014-11-19T03:14:23.000Z</published>
-    <updated>2014-11-19T03:14:23.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+  <url>
+    <loc>http://me.iyuexuan.com/2014/11/19/hello-world/</loc>
+    <lastmod>2014-11-19T03:14:23.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2014-11-19T03:14:23.000Z</pubTime>
+        
+         <content><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2>
 <h3 id="Create_a_new_post">Create a new post</h3>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -61,10 +58,11 @@
 
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
-    
-  </entry>
-  
-</feed>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
